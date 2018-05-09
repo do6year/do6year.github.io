@@ -5,6 +5,8 @@ date: 2018-05-10 02:03 +0900
 ---
 
 ## TODO
+- Use [Trust Wallet](https://trustwalletapp.com/)
+- Try to read [source code](https://github.com/TrustWallet/trust-wallet-ios) for Trust Wallet.
 - Publish [Github page](https://do6year.github.io/).
 - Create [wiki](https://github.com/do6year/go-tutrial) to leaning golang
 - Read Source Code [KyberNetwork/reserve-data](https://github.com/KyberNetwork/reserve-data)
