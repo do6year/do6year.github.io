@@ -1,6 +1,6 @@
-name: Solar Theme
-url: http://example.org
-description: A stylish blog using the Solarized color palette
+name: do6year
+url: http://do6year.github.io
+description: Personal blog with my passion in programming.
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
