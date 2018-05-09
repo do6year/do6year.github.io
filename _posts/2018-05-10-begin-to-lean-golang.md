@@ -24,3 +24,10 @@ go build main.go
 go run main.go
 {% endhighlight %}
 
+## Next
+- Try to lean Swift.
+- Publish dotfiles.
+- Add blog templete to easyly blog post.
+
+## MEMO
+- 英語学習したいならまずは現地行け！行くことにした。
